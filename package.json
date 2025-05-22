@@ -11,5 +11,9 @@
     "backend"
   ],
   "author": "Alok Kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
 }
